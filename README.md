@@ -102,6 +102,12 @@ POC 1과 2를 각각 검증한 뒤 POC 3에서 하나의 미션으로 연결합�
 
 ## 이미지 안내
 
+| 사진에서 3D 펫으로 | 현실 세계에서 별의 세계로 |
+|---|---|
+| ![반려동물 사진과 별의 세계를 달리는 3D 펫 — AI 콘셉트 아트](assets/concept-art/photo-to-3d-pet.jpg) | ![방 안의 사진들과 별의 세계로 이어지는 문 — AI 콘셉트 아트](assets/concept-art/real-world-to-star-world.jpg) |
+
+<sub>AI 콘셉트 아트 (Canva 이미지 생성, 2026-11-20). 실제 게임 화면이 아닙니다.</sub>
+
 - `assets/concept-art/` — AI로 생성한 콘셉트 아트입니다. 게임 플레이 화면이 아닙니다.
 - `assets/wireframes/` — PowerPoint 도형으로 직접 그린 기획용 목업입니다. 구현 화면이 아닙니다.
 - 외부 게임 이미지는 저장소에 넣지 않고 [레퍼런스 문서](docs/07_REFERENCES.md)에서 공식 페이지로 연결합니다.
