@@ -94,7 +94,7 @@ flowchart LR
 
 ![외형 수정 화면 기획용 목업](../assets/wireframes/pet-customization-mockup.png)
 
-<sub>기획용 목업 (포트폴리오 21쪽). 실제 구현 화면이 아닙니다.</sub>
+<sub>기획용 목업 (포트폴리오 PDF 4쪽). 실제 구현 화면이 아닙니다.</sub>
 
 ### 2.7 Unity 캐릭터 적용 구조 — 제안
 

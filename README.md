@@ -49,7 +49,7 @@ flowchart LR
 
 ![현실 세계와 별의 세계 기획용 목업](assets/wireframes/two-worlds-mockup.png)
 
-<sub>기획용 목업 (포트폴리오 19쪽). 실제 구현 화면이 아닙니다.</sub>
+<sub>기획용 목업 (포트폴리오 PDF 2쪽). 실제 구현 화면이 아닙니다.</sub>
 
 ## 지금까지 작성한 것
 
@@ -87,7 +87,9 @@ POC 1과 2를 각각 검증한 뒤 POC 3에서 하나의 미션으로 연결합�
 
 ## 포트폴리오
 
-- [Eternal Pet 기획·설계 포트폴리오 (PDF)](portfolio/Eternal_Pet_Portfolio.pdf)
+- [Eternal Pet 기획·설계 포트폴리오 (PDF, 7쪽)](portfolio/Eternal_Pet_Portfolio.pdf)
+
+통합 포트폴리오(AI & Game Development, 2026-11-20)의 Eternal Pet 부분(18~24쪽)을 따로 묶은 파일입니다. 내용은 같고 쪽 번호와 바닥글만 1~7쪽에 맞췄습니다.
 
 ## 표기 규칙
 
